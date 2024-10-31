@@ -1,7 +1,0 @@
-Cliente: Juan
-Dirección: Calle 123
-----------------
-----------------
-Precio Neto:  0
-IVA:          0
-Precio Total: 0
